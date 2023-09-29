@@ -57,38 +57,43 @@ document.addEventListener('DOMContentLoaded', function () {
                 ],
                 CB: [
                   'Virgil van Dijk - Liverpool (89)',
+                  'Romero-(83)',
                   'Marquinhos - Paris Saint-Germain (88)',
                   'Rúben Dias - Manchester City (88)',
+                  'Niklas Süle - Borussia Dortmund (85)',
                   'Antonio Rüdiger - Real Madrid (87)',
+                  'Varane-(85)',
                   'Kalidou Koulibaly - Al-Hilal (86)',
                   'Aymeric Laporte - Manchester City (86)',
                   'Thiago Silva - Chelsea (86)',
-                  'David Alaba - Real Madrid (86)',
+                  
                   'Milan Škriniar - Paris Saint-Germain (86)',
-                  'Niklas Süle - Borussia Dortmund (85)',
+                 
                   'Sergio Ramos - PSG (85)',
                   'Éder Militão - Real Madrid (84)',
                   'Matthijs de Ligt - Bayern Munich (85)',
                   'Lucas Hernández - FC Bayern München (84)',
                   'Jules Koundé - FC Barcelona (84)',
+                  'David Alaba - Real Madrid (86)',
                   'Konate-81',
-'Varane-(85)',
-'Romero-(83)',
+
+
 'Fernandez-(82)'
                 ],
                 
   LB: [
-    'Raphael Guerreiro - Borussia Dortmund (82)',
+    'Andrew Robertson - Liverpool (87)',
     'Ferland Mendy - Al-Ahli Saudi FC (83)',
     'Alphonso Davies - Bayern Munich (84)',
     'Jordi Alba - Inter Miami CF (85)',
     'Marcos Acuña - Sevilla (85)',
     'Lucas Hernandez - Paris Saint-Germain (85)',
-    'Andrew Robertson - Liverpool (87)',
+    'Perisic - (82)',
     'João Cancelo - Bayern (87)',
+    'Raphael Guerreiro - Borussia Dortmund (82)',
     'Chilwell - (82)',
     'Ake - (80)',
-    'Perisic - (82)',
+    
     'Mendes - (81)'
   ],
   RB: [
@@ -135,74 +140,83 @@ document.addEventListener('DOMContentLoaded', function () {
                 CDM: [
                   'Rodri - Manchester City (87)',
                   'Joshua Kimmich - Bayern Munich (89)',
+                  'Aurélien Tchouaméni - Real Madrid (83)',
                   'N’Golo Kanté - Al-Ittihad Club (88)',
                   'Fabinho - Al-Ittihad Club (86)',
                   'Casemiro - Real Madrid (89)',
                   'Sergio Busquets - Barca (85)',
-                  'Marcelo Brozović (86)',
-                  'Aurélien Tchouaméni - Real Madrid (83)'
+                  'Marcelo Brozović (86)'
+                 
                 ],
                 ST: [
                   'Romelu Lukaku - AS Roma (85)',
                   'Paulo Dybala - AS Roma (86)',
                   'Rafa - Benfica - (83)',
+                  'Alvarez (79)',
                   'Lautaro Martínez - Inter Milan (86)',
                   'Karim Benzema - Real Madrid (91)',
-                  'Robert Lewandowski - FC Barcelona (91)',
+                  'Griezmann (85)',
                   'Kylian Mbappé - Paris Saint-Germain (PSG) (91)',
                   'Cristiano Ronaldo - Al-Nassr FC (88)',
                   'Harry Kane - Tottenham Hotspur (89)',
-                  'Erling Haaland - Manchester City (89)',
+                  'Jota (85)',
                   'Sadio Mané - FC Bayern München (89)',
                   'Nunez - Liverpool (82)',
                   'Oshimen (84)',
-                  'Griezmann (85)',
+                  
                   'Morata (82)',
                   'Gabriel Jesus (84)',
+                  'Robert Lewandowski - FC Barcelona (91)',
                   'Firmino (83)',
-                  'Jota (85)',
+                  
                   'Ibrahimovic (82)',
-                  'Alvarez (79)',
+                  'Erling Haaland - Manchester City (89)'
+                  
                   
                 ],
                 LW: [
                   'Neymar Jr - PSG (89)',
-                  'Son Heung-min - Tottenham Hotspur (88)',
+                  
                   'Vinicius Jr - Real Madrid (86)',
-                  'Raheem Sterling - Chelsea FC (85)',
+                  
                   'Phil Foden - Manchester City (85)',
                   'Jack Grealish - Manchester City (84)',
                   'Eden Hazard - Real Madrid (83)',
                   'Gakpo - (83)',
+                  'Son Heung-min - Tottenham Hotspur (88)',
                   'Diaz - (84)',
                   'Rashfor - (83)',
                   'Zaha - (82)',
+                  'Raheem Sterling - Chelsea FC (85)',
                   'Sane - Bayern Munich (84)'
                 ],
                 RW: [
-                  'Lionel Messi - Paris Saint-Germain (PSG) (91)',
+                  
                   'Mohamed Salah - Liverpool (89)',
                   'Riyad Mahrez - Manchester City (85)',
                   'Angel Di Maria - Paris Saint-Germain (PSG)',
                   'Raphinha - Barca - (83)',
                   'Hakim Ziyech - Chelsea FC',
+                  'Kvaratskhelia - Rubin Kazan - (79)',
                   'Rodrgo - Real Madrid - (81)' ,
                   'Marco Asensio - Real Madrid (83)',
+                  'Lionel Messi - Paris Saint-Germain (PSG) (91)',
                   'Ousmane Dembélé - Barcelona (84)',
                   'Antony - Manchester United (82)',
                   'Gnabry - Bayern Munich (84)',
                   'Coman - Bayern Munich (85)',
-                  'Kvaratskhelia - Rubin Kazan - (79)',
+                 
                   'Saka - Arsenal (84)'
                   
                 ],
                 GK: [
-                  'Thibaut Courtois - Real Madrid (90)',
+                  
                   'Manuel Neuer - Bayern Munich (89)',
                   'Jan Oblak - Athletico (89)',
                   'Ederson -  Man City (89)',
                   'Alisson - Liverpool (89)',
                   'Gianluigi Donnarumma - PSG (88)',
+                  'Thibaut Courtois - Real Madrid (90)',
                   'Marc-André ter Stegen - Barca (88)',
                   'Keylor Navas - Real Madrid (87)',
                   'Emiliano Martínez - Arsenal (85)',
