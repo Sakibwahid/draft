@@ -119,8 +119,8 @@ document.addEventListener('DOMContentLoaded', function () {
                   'Gavi (80)',
                   'Rodrigo De Paul (84)',
                   'Jordan Henderson (82)',
-                  'Pajero- (86)',
-                  'Villarreal - ()'
+                  'Pajero- Villareal - (86)'
+              
                 ],
                 CAM: [
                   'Martin Ødegaard - Arsenal (85)',
@@ -145,6 +145,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ST: [
                   'Romelu Lukaku - AS Roma (85)',
                   'Paulo Dybala - AS Roma (86)',
+                  'Rafa - Benfica - (83)',
                   'Lautaro Martínez - Inter Milan (86)',
                   'Karim Benzema - Real Madrid (91)',
                   'Robert Lewandowski - FC Barcelona (91)',
@@ -153,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function () {
                   'Harry Kane - Tottenham Hotspur (89)',
                   'Erling Haaland - Manchester City (89)',
                   'Sadio Mané - FC Bayern München (89)',
-                  'Nunez - Bayern (82)',
+                  'Nunez - Liverpool (82)',
                   'Oshimen (84)',
                   'Griezmann (85)',
                   'Morata (82)',
@@ -162,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
                   'Jota (85)',
                   'Ibrahimovic (82)',
                   'Alvarez (79)',
-                  'Sane - Bayern Munich (84)'
+                  
                 ],
                 LW: [
                   'Neymar Jr - PSG (89)',
@@ -171,27 +172,28 @@ document.addEventListener('DOMContentLoaded', function () {
                   'Raheem Sterling - Chelsea FC (85)',
                   'Phil Foden - Manchester City (85)',
                   'Jack Grealish - Manchester City (84)',
-                  'Gnabry - Bayern Munich (84)',
-                  'Coman - Bayern Munich (85)',
                   'Eden Hazard - Real Madrid (83)',
                   'Gakpo - (83)',
                   'Diaz - (84)',
                   'Rashfor - (83)',
-                  'Zaha - (82)'
+                  'Zaha - (82)',
+                  'Sane - Bayern Munich (84)'
                 ],
                 RW: [
                   'Lionel Messi - Paris Saint-Germain (PSG) (91)',
                   'Mohamed Salah - Liverpool (89)',
                   'Riyad Mahrez - Manchester City (85)',
                   'Angel Di Maria - Paris Saint-Germain (PSG)',
-                  'Raphinha - Leeds United (83)',
+                  'Raphinha - Barca - (83)',
                   'Hakim Ziyech - Chelsea FC',
+                  'Rodrgo - Real Madrid - (81)' ,
                   'Marco Asensio - Real Madrid (83)',
                   'Ousmane Dembélé - Barcelona (84)',
                   'Antony - Manchester United (82)',
-                  'Rafa - Benfica',
-                  'Kvaratskhelia - Rubin Kazan',
-                  'Saka - Arsenal (84)',
+                  'Gnabry - Bayern Munich (84)',
+                  'Coman - Bayern Munich (85)',
+                  'Kvaratskhelia - Rubin Kazan - (79)',
+                  'Saka - Arsenal (84)'
                   
                 ],
                 GK: [
