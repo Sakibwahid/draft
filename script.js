@@ -129,7 +129,8 @@ document.addEventListener('DOMContentLoaded', function () {
                   'Marco Reus - Borussia Dortmund (85)',
                   'Thomas Müller - Bayern Munich (86)',
                   'Bernardo Silva - Manchester City (88)',
-                  'Bruno Fernandes - Manchester United (86)'
+                  'Bruno Fernandes - Manchester United (86)' ,
+                  'Jamal Musiala - Bayern (83)'
                 ],
                 CDM: [
                   'Rodri - Manchester City (87)',
